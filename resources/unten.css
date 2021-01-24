@@ -1,0 +1,77 @@
+// Copyright (C) 2021  Marco Schaefer-Herte
+
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+.face
+{
+  width: 52;
+  height: 89;
+}
+
+#memory
+{
+  width: 100;
+  height: 21;
+  x: 100;
+  y: 178;
+}
+
+.facebg
+{  
+  width: 54;
+  height: 91;
+  fill: #87cb82;
+}
+
+#codectext1
+{
+  x: 65;
+  y: 230;
+}
+
+#codectext2
+{
+  x: 65;
+  y: 260;
+}
+
+#codectext3
+{
+  x: 65;
+  y: 290;
+}
+
+#codec1
+{
+  x: 5;
+  y: 206;
+}
+
+#codec2
+{
+  x: 243;
+  y: 206;
+}
+
+#codecbg1
+{
+  x: 4;
+  y: 205; 
+}
+
+#codecbg2
+{
+  x: 242;
+  y: 205; 
+}
