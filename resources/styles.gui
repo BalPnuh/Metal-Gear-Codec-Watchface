@@ -13,8 +13,6 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-//Styles for the Ionic, can be in the same Build as the Versa 1 - 2 Styles.
-
 .background {
   viewport-fill: red;
 }
