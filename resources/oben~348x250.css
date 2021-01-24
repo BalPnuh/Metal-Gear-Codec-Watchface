@@ -1,0 +1,127 @@
+// Copyright (C) 2021  Marco Schaefer-Herte
+
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+//Styles for the Ionic, can be in the same Build as the Versa 1 - 2 Styles.
+
+#bolt
+{
+  width: 22;
+  height: 12;
+  x: 17;
+  y: 41;
+}
+
+#aktiv
+{
+  x: 42;
+  y: 51;
+}
+
+#flame
+{
+  width: 22;
+  height: 12;
+  x: 316;
+  y: 41;
+}
+
+#kalorien
+{
+  text-anchor: end;
+  x: 313;
+  y: 51;
+}
+
+#steps
+{
+  width: 22;
+  height: 12;
+  x: 316;
+  y: 17;
+}
+
+#schritte
+{
+  text-anchor: end;
+    x: 313;
+  y: 27;
+}  
+
+#stairs
+{
+  width: 22;
+  height: 12;
+  x: 150;
+  y: 8;
+}
+
+#etagen
+{
+  x: 176;
+  y: 20;
+}
+
+
+#hearth
+{
+  width: 22;
+  height: 12;
+  x: 152;
+  y: 45;
+}
+
+#puls
+{
+  x: 176;
+  y: 57;
+}
+
+#charginglevel 
+{
+  x: 40;
+  y: 27;
+}
+
+#batteryouter
+{
+  width: 18;
+  height: 10;
+  x: 15;
+  y: 17; 
+}
+
+#batteryinner
+{
+  width: 12;
+  height: 8;
+  x: 19;
+  y: 18; 
+}
+
+#batteryloading
+{
+  width: 12;
+  height: 8;
+  x: 19;
+  y: 18; 
+}
+
+#batterywarning
+{
+  width: 3;
+  height: 12;
+  x: 35;
+  y: 16; 
+}
