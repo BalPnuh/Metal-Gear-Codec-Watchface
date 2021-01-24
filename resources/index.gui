@@ -1,0 +1,82 @@
+// Copyright (C) 2021  Marco Schaefer-Herte
+
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+<svg class="background">
+  
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="Oben.css" />
+    <link rel="stylesheet" href="Mitte.css" />
+    <link rel="stylesheet" href="Unten.css" />
+  </defs>
+  
+ 
+  <image href="Images/BG.jpg" />
+  
+  <image id="hourdigit1" href="Images/Digits/leer.png" class="digit"/>
+  <image id="hourdigit2" href="Images/Digits/leer.png" class="digit"/>
+  <image id="dots" href="Images/Digits/punktean.png"/>
+  <image id="minutedigit1" href="Images/Digits/leer.png" class="digit"/>
+  <image id="minutedigit2" href="Images/Digits/leer.png" class="digit"/>
+  <text id="ustag" class="textsmall"/>
+  
+  <image id="batteryinner" href="Images/Symbols/batteryfilling.png" />
+  <image id="batteryouter" href="Images/Symbols/battery.png" />
+  <image id="batterywarning" href="Images/Ausrufezeichen.png"/>
+  <text id="charginglevel" class="textsmall"></text> 
+  <text id="loadingframe" class="texthidden">9</text>
+  
+  <image id="hearth" href="Images/Symbols/hearth.png"/>  
+  <text id="puls" class="textsmall"/>
+  
+  <image id="steps" href="Images/Symbols/steps.png"/>  
+  <text id="schritte" class="textsmall"/>
+  
+  <image id="stairs" href="Images/Symbols/stairs.png"/>  
+  <text id="etagen" class="textsmall"/>
+  
+  <image id="memory" href="Images/memory.jpg" pointer-events="visible"/>  
+  <image id="links" href="Images/buttonlinks.jpg" pointer-events="visible"/>
+  <image id="rechts" href="Images/buttonrechts.jpg" pointer-events="visible"/>
+  
+  <image id="bolt" href="Images/Symbols/bolt.png"/>  
+  <text id="aktiv" class="textsmall"/>
+  
+  <image id="flame" href="Images/Symbols/flame.png"/>  
+  <text id="kalorien" class="textsmall"/>
+  
+  <image id="balken" href="Images/Balken/Balken9.png" />
+  
+  <rect id="codecbg1" class="facebg"/>
+  <image id="codec1" href="Images/Gesichter/roy.jpg" class="face"/>
+  <rect id="codecbg2" class="facebg"/>
+  <image id="codec2" href="Images/Gesichter/snake.jpg" class="face"/>
+  
+  <text id="codeccounter" class="texthidden">1</text>
+  
+  <text id="Liquid" class="texthidden">0</text>
+  
+  <text id="debugger" class="textdebug"/>
+  <text id="psycho" class="texthidden">0</text>
+  <text id="psychocounter" class="texthidden">0</text>
+  
+  <image id="Mantis" href="Images/Mantis.jpg" class="imagehidden"/>
+  <image id="Hideo" href="Images/Hideo.jpg" class="imagehidden"/>
+  
+  <text id="codectext1" class="textmedium"/>
+  <text id="codectext2" class="textmedium"/>
+  <text id="codectext3" class="textmedium"/>
+  
+</svg>
