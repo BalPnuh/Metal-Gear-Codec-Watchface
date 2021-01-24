@@ -1,0 +1,79 @@
+// Copyright (C) 2021  Marco Schaefer-Herte
+
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+//Styles for the Ionic, can be in the same Build as the Versa 1 - 2 Styles.
+
+.face
+{
+  width: 52;
+  height: 89;
+}
+
+#memory
+{
+  width: 100;
+  height: 21;
+  x: 124;
+  y: 162;
+}
+
+.facebg
+{  
+  width: 54;
+  height: 91;
+  fill: #87cb82;
+}
+
+#codectext1
+{
+  x: 89;
+  y: 200;
+}
+
+#codectext2
+{
+  x: 89;
+  y: 220;
+}
+
+#codectext3
+{
+  x: 89;
+  y: 240;
+}
+
+#codec1
+{
+  x: 5;
+  y: 156;
+}
+
+#codec2
+{
+  x: 291;
+  y: 156;
+}
+
+#codecbg1
+{
+  x: 4;
+  y: 155; 
+}
+
+#codecbg2
+{
+  x: 290;
+  y: 155; 
+}
